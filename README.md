@@ -4,6 +4,9 @@ That's my resolution to the scalar multiplication's challenge in Prolog
 Examples:
 
 ```
+?- [scalar].
+true.
+
 ?- scalarMult(7, [6, 7, 10, 12, 5], Y).
 Y = [42, 49, 70, 84, 35] .
 
