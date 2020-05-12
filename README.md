@@ -1,5 +1,5 @@
 # scalar_multiplication
-That's my resolution to the scalar multiplication's challenge in Prolog
+That's my resolution for the scalar multiplication's challenge in Prolog
 
 Examples:
 
